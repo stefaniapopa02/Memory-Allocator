@@ -1,0 +1,10 @@
+Popa Stefania
+Grupa 336CB
+
+    Pentru implementarea temei m-am folosit de structura data, fiecare zona de memorie reprezentand une element de tipul structurii
+dintr-o lista simplu inlantuita.
+
+    Pentru o gestionare mai usoara a nodurilor si  a operatiilor pe acestea, am introdus de fiecare data la inceput un nod ce 
+reprezenta o zona alocata cu MMAP si la sfarsit unul ce reprezenta o zona alocata cu SBRK, pentru a respecta continuitatea memoriei.
+
+Toate detaliile de implementare ale functiilor se regasesc in comentariile din cod.
